@@ -1,0 +1,23 @@
+Nombres de tablas
+=================
+orderdetails --> t_linea_de_pedido
+products --> t_producto
+productlines --> t_linea_de_producto
+orders --> t_pedido
+payments --> t_pago
+customers --> t_cliente
+employees --> t_empleado
+offices --> t_oficina
+
+
+Líneas de producto
+==================
+'Classic Cars' --> 'Coches clásicos'
+'Motorcycles' --> 'Motos'
+'Planes' --> 'Aviones'
+'Ships' --> 'Barcos'
+'Trains' --> 'Trenes'
+'Trucks and Buses' --> 'Camiones y autobuses'
+'Vintage Cars' --> 'Coches vintage' 
+
+
