@@ -1,0 +1,19 @@
+Mejoras sobre classicmodels
+
+HECHO
+=====
+Quitar los ` en la creación de objetos
+Prefijo de tablas: t_ 
+Nombres de tabla en singular
+Nombres de tablas en español
+Traducir las líneas de producto
+
+
+PENDIENTE (TO-DO LIST)
+=========
+Nombres de campos en español
+Descripciones en español
+Conciliación de pagos 
+Precios de compra en el tiempo
+Revisar las \' por ejemplo don\'t La Corne D\'abondance (Visual Studio visualiza mal los colores en el scritp, Ultraedit lo hace bien)
+
