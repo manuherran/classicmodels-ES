@@ -10,9 +10,9 @@ employees --> t_empleado
 offices --> t_oficina
 
 
-LÌneas de producto
+L√≠neas de producto
 ==================
-'Classic Cars' --> 'Coches cl·sicos'
+'Classic Cars' --> 'Coches cl√°sicos'
 'Motorcycles' --> 'Motos'
 'Planes' --> 'Aviones'
 'Ships' --> 'Barcos'
@@ -20,4 +20,5 @@ LÌneas de producto
 'Trucks and Buses' --> 'Camiones y autobuses'
 'Vintage Cars' --> 'Coches vintage' 
 
+Se ha modificado el orden de la creaci√≥n de FK y se han a√±adido sentencias de borrado para poder lanzar el script varias veces sin errores.
 
