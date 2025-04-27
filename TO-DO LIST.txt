@@ -2,7 +2,7 @@ Mejoras sobre classicmodels
 
 HECHO
 =====
-Reordenar la creación de objetos y FK
+Añadir sentencias de borrado y reordenar la creación de objetos y FK para que pueda lanzarse el script varias veces sin error
 Quitar los ` en la creación de objetos
 Prefijo de tablas: t_ 
 Nombres de tabla en singular
