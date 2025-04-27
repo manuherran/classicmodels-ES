@@ -2,18 +2,20 @@ Mejoras sobre classicmodels
 
 HECHO
 =====
-Quitar los ` en la creaci�n de objetos
+Reordenar la creación de objetos y FK
+Quitar los ` en la creación de objetos
 Prefijo de tablas: t_ 
 Nombres de tabla en singular
-Nombres de tablas en espa�ol
-Traducir las l�neas de producto
+Nombres de tablas en español
+Traducir las líneas de producto
+
 
 
 PENDIENTE (TO-DO LIST)
 =========
-Nombres de campos en espa�ol
-Descripciones en espa�ol
-Conciliaci�n de pagos 
+Nombres de campos en español
+Descripciones en español
+Conciliación de pagos 
 Precios de compra en el tiempo
 Revisar las \' por ejemplo don\'t La Corne D\'abondance (Visual Studio visualiza mal los colores en el scritp, Ultraedit lo hace bien)
 
